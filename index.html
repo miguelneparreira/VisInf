@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>UFC · Inside the Octagon</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-top">
+      <h1>UFC · Inside the Octagon</h1>
+      <p class="subtitle" id="subtitle">Como se vence no UFC</p>
+      <div id="actions" class="actions"></div>
+    </div>
+    <div id="filters" class="filters" role="group" aria-label="Filtros"></div>
+  </header>
+
+  <!-- Um <section id="panel-<id>"> por área da grid; o conteúdo é montado em js/main.js -->
+  <main class="dashboard">
+    <section class="panel" id="panel-sun" style="grid-area: sun"></section>
+    <section class="panel" id="panel-lines" style="grid-area: lines"></section>
+    <section class="panel" id="panel-scatter" style="grid-area: scatter"></section>
+    <section class="panel" id="panel-hist" style="grid-area: hist"></section>
+  </main>
+
+  <!-- D3 local (funciona offline), carregado como global antes dos ES modules -->
+  <script src="lib/d3.v7.min.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

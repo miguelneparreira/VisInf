@@ -1,0 +1,45 @@
+{
+ "raw": {
+  "events": 788,
+  "bouts": 8912,
+  "stat_rows": 41906,
+  "fighters": 4619
+ },
+ "event_country_unmapped": [],
+ "dropped_pre2001": 294,
+ "dropped_openweight": 0,
+ "birth_country_unmapped": [],
+ "ambiguous_names": 8,
+ "final_rows": 17236,
+ "bouts": 8618,
+ "events": 756,
+ "fighters": 2545,
+ "years": [
+  2001,
+  2026
+ ],
+ "missing_pct": {
+  "fighter_id": 0.006,
+  "origin_iso": 0.029,
+  "origin_country": 0.029,
+  "is_home": 0.029,
+  "age": 0.009,
+  "reach_cm": 0.06,
+  "reach_diff_cm": 0.111
+ },
+ "origin_cov_rows": 0.971,
+ "origin_cov_by_period": {
+  "2000": 0.99,
+  "2005": 0.98,
+  "2010": 0.95,
+  "2015": 0.96,
+  "2020": 0.99,
+  "2025": 0.97
+ },
+ "origin_sources": {
+  "UFC.com birthplace": 2375,
+  "NaN": 108,
+  "Sherdog nationality (2026 roster)": 49,
+  "Sherdog nationality (2017 snapshot)": 13
+ }
+}

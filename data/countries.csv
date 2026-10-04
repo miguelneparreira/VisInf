@@ -1,0 +1,107 @@
+iso2,iso_num,name,lat,lon
+AE,784,United Arab Emirates,24.0,54.0
+AF,004,Afghanistan,33.0,65.0
+AI,660,Anguilla,18.25,-63.16666666
+AL,008,Albania,41.0,20.0
+AM,051,Armenia,40.0,45.0
+AO,024,Angola,-12.5,18.5
+AR,032,Argentina,-34.0,-64.0
+AT,040,Austria,47.33333333,13.33333333
+AU,036,Australia,-27.0,133.0
+AZ,031,Azerbaijan,40.5,47.5
+BA,070,Bosnia and Herzegovina,44.0,18.0
+BE,056,Belgium,50.83333333,4.0
+BG,100,Bulgaria,43.0,25.0
+BO,068,Bolivia,-17.0,-65.0
+BR,076,Brazil,-10.0,-55.0
+BS,044,Bahamas,24.25,-76.0
+BY,112,Belarus,53.0,28.0
+CA,124,Canada,60.0,-95.0
+CD,180,DR Congo,0.0,25.0
+CH,756,Switzerland,47.0,8.0
+CL,152,Chile,-30.0,-71.0
+CM,120,Cameroon,6.0,12.0
+CN,156,China,35.0,105.0
+CO,170,Colombia,4.0,-72.0
+CR,188,Costa Rica,10.0,-84.0
+CU,192,Cuba,21.5,-80.0
+CV,132,Cape Verde,16.0,-24.0
+CY,196,Cyprus,35.0,33.0
+CZ,203,Czechia,49.75,15.5
+DE,276,Germany,51.0,9.0
+DK,208,Denmark,56.0,10.0
+DO,214,Dominican Republic,19.0,-70.66666666
+EC,218,Ecuador,-2.0,-77.5
+EG,818,Egypt,27.0,30.0
+ES,724,Spain,40.0,-4.0
+FI,246,Finland,64.0,26.0
+FR,250,France,46.0,2.0
+GB,826,United Kingdom,54.0,-2.0
+GE,268,Georgia,42.0,43.5
+GH,288,Ghana,8.0,-2.0
+GN,324,Guinea,11.0,-10.0
+GR,300,Greece,39.0,22.0
+GU,316,Guam,13.46666666,144.78333333
+GY,328,Guyana,5.0,-59.0
+HK,344,Hong Kong,22.267,114.188
+HR,191,Croatia,45.16666666,15.5
+HU,348,Hungary,47.0,20.0
+ID,360,Indonesia,-5.0,120.0
+IE,372,Ireland,53.0,-8.0
+IL,376,Israel,31.47,35.13
+IN,356,India,20.0,77.0
+IQ,368,Iraq,33.0,44.0
+IR,364,Iran,32.0,53.0
+IS,352,Iceland,65.0,-18.0
+IT,380,Italy,42.83333333,12.83333333
+JM,388,Jamaica,18.25,-77.5
+JO,400,Jordan,31.0,36.0
+JP,392,Japan,36.0,138.0
+KG,417,Kyrgyzstan,41.0,75.0
+KR,410,South Korea,37.0,127.5
+KZ,398,Kazakhstan,48.0,68.0
+LT,440,Lithuania,56.0,24.0
+LV,428,Latvia,57.0,25.0
+MA,504,Morocco,32.0,-5.0
+MD,498,Moldova,47.0,29.0
+ME,499,Montenegro,42.5,19.3
+MK,807,North Macedonia,41.83333333,22.0
+MM,104,Myanmar,22.0,98.0
+MN,496,Mongolia,46.0,105.0
+MX,484,Mexico,23.0,-102.0
+NG,566,Nigeria,10.0,8.0
+NI,558,Nicaragua,13.0,-85.0
+NL,528,Netherlands,52.5,5.75
+NO,578,Norway,62.0,10.0
+NZ,554,New Zealand,-41.0,174.0
+PA,591,Panama,9.0,-80.0
+PE,604,Peru,-10.0,-76.0
+PH,608,Philippines,13.0,122.0
+PL,616,Poland,52.0,20.0
+PT,620,Portugal,39.5,-8.0
+PY,600,Paraguay,-23.0,-58.0
+QA,634,Qatar,25.5,51.25
+RO,642,Romania,46.0,25.0
+RS,688,Serbia,44.0,21.0
+RU,643,Russia,60.0,100.0
+SA,682,Saudi Arabia,25.0,45.0
+SB,090,Solomon Islands,-8.0,159.0
+SE,752,Sweden,62.0,15.0
+SG,702,Singapore,1.36666666,103.8
+SK,703,Slovakia,48.66666666,19.5
+SR,740,Suriname,4.0,-56.0
+SV,222,El Salvador,13.83333333,-88.91666666
+SY,760,Syria,35.0,38.0
+TH,764,Thailand,15.0,100.0
+TJ,762,Tajikistan,39.0,71.0
+TN,788,Tunisia,34.0,9.0
+TR,792,Türkiye,39.0,35.0
+UA,804,Ukraine,49.0,32.0
+UG,800,Uganda,1.0,32.0
+US,840,United States,38.0,-97.0
+UY,858,Uruguay,-33.0,-56.0
+UZ,860,Uzbekistan,41.0,64.0
+VE,862,Venezuela,8.0,-66.0
+VN,704,Vietnam,16.16666666,107.83333333
+ZA,710,South Africa,-29.0,24.0
+ZW,716,Zimbabwe,-20.0,30.0
